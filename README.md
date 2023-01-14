@@ -1,5 +1,5 @@
 # General
-<img src="imgs\general_logo.png" alt="general_logo" style="zoom: 25%;" />
+<img src="imgs\General_h.jpg" alt="general_logo" />
 
 #### 框架介绍
 
