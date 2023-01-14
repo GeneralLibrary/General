@@ -15,6 +15,10 @@ https://github.com/GeneralLibrary/General
 
 https://gitee.com/GeneralTeam/General
 
+#### General Template Pack
+
+https://gitee.com/GeneralTeam/General.Templates
+
 #### 支持框架
 
 | UI框架名称 | 是否支持 |
