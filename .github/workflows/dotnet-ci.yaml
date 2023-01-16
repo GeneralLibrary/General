@@ -13,6 +13,6 @@ jobs:
       with:
         dotnet-version: '6.0.x'
     - name: Restore dependencies
-      run: dotnet restore ./src/c#/General.sln
+      run: dotnet restore ./src/c#/General/General.sln
     - name: build
-      run: dotnet build ./src/c#/General.sln -c Release
+      run: dotnet build ./src/c#/General/General.sln -c Release
