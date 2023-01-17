@@ -9,5 +9,7 @@
     <Import_RootNamespace>General.Maf.Shared</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)GeneralMafExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MafContainerExtension.cs" />
   </ItemGroup>
 </Project>
