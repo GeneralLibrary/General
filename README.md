@@ -3,7 +3,7 @@
 
 #### 框架介绍
 
-GeneralUpdate的孪生项目，让客户端更新流畅。
+General是一款基于.NET8的客户端开发框架。
 
 #### 帮助文档
 
@@ -35,7 +35,5 @@ https://github.com/orgs/GeneralLibrary/repositories
 
 #### 版权
 
-项目LOGO已购买使用版权，请勿盗用。
-
-©2023 GeneralLibrary,organization. All rights reserved. 
+©2023 - 2024 GeneralLibrary,organization. All rights reserved. 
 
