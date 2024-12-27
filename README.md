@@ -1,39 +1,42 @@
 # General
-<img src="imgs\general_h.jpg" alt="general_logo" />
+![](imgs\uav.png)
 
-#### 框架介绍
+Drone ground station software control core.
 
-General是一款基于.NET8的客户端开发框架。
+## Supported brands
 
-#### 帮助文档
+| Brand                |
+| -------------------- |
+| ![](imgs\dji.png)DJI |
 
-http://justerzhu.cn/
 
-#### 开源地址
 
-https://github.com/GeneralLibrary/General
+## Supported platforms
 
-https://gitee.com/GeneralTeam/General
+| Platform                     |
+| ---------------------------- |
+| ![](imgs\windows.png)Windows |
+| ![](imgs\linux.png)Linux     |
+| ![](imgs\mac.png)Mac         |
+| ![](imgs\android.png)Android |
 
-#### General Template Pack
 
-https://gitee.com/GeneralTeam/General.Templates
 
-#### 支持框架
+## Supported communication protocols
 
-| UI框架名称 | 是否支持 |
-| ---------- | -------- |
-| WPF        | 暂不支持 |
-| Winform    | 暂不支持 |
-| MAUI       | 暂不支持 |
-| Avalonia   | 暂不支持 |
-| Console    | 暂不支持 |
+| Protocol |
+| -------- |
+| Mavlink  |
+| OcuSync  |
 
-#### 所属组织
 
-https://github.com/orgs/GeneralLibrary/repositories
 
-#### 版权
+## Supported maps
 
-©2023 - 2024 GeneralLibrary,organization. All rights reserved. 
+| Map                        |
+| -------------------------- |
+| ![](imgs\Bing.png)Bing     |
+| ![](imgs\google.png)Google |
+| ![](imgs\Baidu.png)Baidu   |
+| ![](imgs\Gaode.png)Gaode   |
 
