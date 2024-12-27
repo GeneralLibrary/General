@@ -1,7 +1,7 @@
 # General
 ![](imgs\uav.png)
 
-Drone ground station software control core.
+UAV ground station software control core.
 
 ## Supported brands
 
