@@ -40,3 +40,18 @@ UAV ground station software control core.
 | ![](imgs\Baidu.png)Baidu   |
 | ![](imgs\Gaode.png)Gaode   |
 
+
+
+## Supported UAV
+
+| UAV   |
+| ----- |
+| Tello |
+|       |
+|       |
+
+
+
+## Ref
+
+- https://www.ryzerobotics.com/cn/tello/downloads
