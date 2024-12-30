@@ -47,8 +47,6 @@ UAV ground station software control core.
 | UAV   |
 | ----- |
 | Tello |
-|       |
-|       |
 
 
 
